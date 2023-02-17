@@ -2,6 +2,9 @@
 <div align="center">
   <a href="https://github.com/Polabiel">
 <div style="display: inline_block"><br>
+  <img height="160em" src="https://github-readme-stats-bk7cvenwo-lmartinhao.vercel.app/api?username=polabiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-bk7cvenwo-lmartinhao.vercel.app/api/top-langs/?username=polabiel&layout=compact&langs_count=7&theme=dark"/>
+  </br><br/>
   <a href="https://www.javascript.com/"><img align="center" alt="Polabiel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Polabiel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://nodejs.org/"><img align="center" alt="Polabiel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"></a>
