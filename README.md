@@ -1,5 +1,6 @@
 ## Olá eu me chamo Gabriel Oliveira, Sou Estudante de Desenvolvimento de Sistemas
-- Estudante no Colégio Técnico <a href="https://cotuca.unicamp.br">COTUCA<a/>
+<div align="center">
+Estudante no Colégio Técnico <a href="https://cotuca.unicamp.br">COTUCA<a/>
 <div align="center">
   <a href="https://github.com/Polabiel">
 <div style="display: inline_block"><br>
