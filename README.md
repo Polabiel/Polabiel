@@ -4,8 +4,8 @@ Estudante no Colégio Técnico <a href="https://cotuca.unicamp.br">COTUCA<a/>
 <div align="center">
   <a href="https://github.com/Polabiel">
 <div style="display: inline_block"><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polabiel&layout=compact&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=polabiel&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=polabiel&show_icons=true&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polabiel&layout=compact"/>
   </br><br/>
   <a href="https://www.javascript.com/"><img align="center" alt="Polabiel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Polabiel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
