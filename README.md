@@ -13,6 +13,8 @@ Estudante no Colégio Técnico <a href="https://cotuca.unicamp.br">COTUCA<a/>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Polabiel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Polabiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://www.python.org/"><img align="center" alt="Polabiel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="https://www.nextjs.org/"><img align="center" alt="Polabiel-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+  <a href="https://react.dev/"><img align="center" alt="Polabiel-React-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <img align="right" alt="Polabiel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/716555978442539058/826628229170724904/Sem_Fala.png?width=671&height=671">
 </div>
   
