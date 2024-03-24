@@ -1,31 +1,24 @@
-## Olá eu me chamo Gabriel Oliveira, Sou Estudante de Desenvolvimento de Sistemas
-<div align="center">
-Estudante no Colégio Técnico <a href="https://cotuca.unicamp.br">COTUCA<a/>
-<div align="center">
-  <a href="https://github.com/Polabiel">
-<div style="display: inline_block"><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=polabiel&show_icons=true&theme=transparent"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polabiel&layout=compact&theme=transparent"/>
-  </br><br/>
-  <a href="https://www.javascript.com/"><img align="center" alt="Polabiel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org/"><img align="center" alt="Polabiel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://nodejs.org/"><img align="center" alt="Polabiel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Polabiel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Polabiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://www.python.org/"><img align="center" alt="Polabiel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.nextjs.org/"><img align="center" alt="Polabiel-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
-  <a href="https://react.dev/"><img align="center" alt="Polabiel-React-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <img align="right" alt="Polabiel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/716555978442539058/826628229170724904/Sem_Fala.png?width=671&height=671">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA6845&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA6845&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Oliveira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Technical+Student+&+Backend+Developer;Be+Welcome!+:%29)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=polabiel&show_icons=true&count_private=true&hide_border=true&title_color=FA6845&icon_color=FA6845&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polabiel&layout=compact&hide_border=true&title_color=FA6845&text_color=FFF&bg_color=0d1117" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FA6845?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/polabiel/)
+
 </div>
-  
-  ##
- 
-<div>
-  <a href="https://instagram.com/polabiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/polabiel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bielgabrieloliveira77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-166ba315a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+### Studying in this moment:
+<div align="center">
+
+![C](https://img.shields.io/badge/C-FA6845?style=for-the-badge&logo=c&logoColor=FFF)
+![HTML5](https://img.shields.io/badge/HTML5-FA6845?style=for-the-badge&logo=html5&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-FA6845?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-FA6845?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 </div>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=polabiel&bg_color=0d1117&color=FA6845&line=FA6845&point=FA6845&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA6845&height=120&section=footer"/>
