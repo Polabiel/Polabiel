@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA6845&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Oliveira;I'm+20+years+old;I'm+from+Brazil;I'm+a+Technical+Student+&+Backend+Developer;Be+Welcome!+:%29)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://nice-readme.vercel.app/api?username=polabiel&show_icons=true&count_private=true&hide_border=true&title_color=FA6845&icon_color=FA6845&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://nice-readme.vercel.app/api/top-langs/?username=polabiel&layout=compact&hide_border=true&title_color=FA6845&text_color=FFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://helio-github-stats.vercel.app/api?username=polabiel&show_icons=true&count_private=true&hide_border=true&title_color=FA6845&icon_color=FA6845&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://helio-github-stats.vercel.app/api/top-langs/?username=polabiel&layout=compact&hide_border=true&title_color=FA6845&text_color=FFF&bg_color=0d1117" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FA6845?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/polabiel/)
 
