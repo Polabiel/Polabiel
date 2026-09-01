@@ -1,11 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA6845&height=120&section=header"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=FA6845&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+name+is+Gabriel+Oliveira;I'm+21+years+old;I'm+from+Brazil;I'm+a+Technical+Student+%26+Backend+Developer;Be+Welcome!+%3A%29">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=FA6845&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+name+is+Gabriel+Oliveira;I'm+21+years+old;I'm+from+Brazil;I'm+a+Technical+Student+%26+Backend+Developer;Be+Welcome!+%3A%29">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FA6845&size=35&center=true&vCenter=true&width=1000" alt="Typing SVG">
-</picture>
-
 <div align="center">
 
 <picture>
@@ -52,11 +46,5 @@
 ![GitLab](https://img.shields.io/badge/gitlab-FA6845?style=for-the-badge\&logo=gitlab\&logoColor=FFF)
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=polabiel&bg_color=0d1117&color=FA6845&line=FA6845&point=FA6845&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=polabiel&bg_color=ffffff&color=24292f&line=FA6845&point=FA6845&area=true&hide_border=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=polabiel&bg_color=0d1117&color=FA6845&line=FA6845&point=FA6845&area=true&hide_border=true" alt="Ashutosh's github activity graph">
-</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA6845&height=120&section=footer"/>
